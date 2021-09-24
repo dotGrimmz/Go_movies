@@ -1,0 +1,34 @@
+{
+ "Movies": [
+  {
+   "Id": "b29e67df-d0c7-4d80-aa94-ac6133bf0f62",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "ad557a83-b3e0-406a-b0ba-fb0c96631f40",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  }
+ ]
+}
