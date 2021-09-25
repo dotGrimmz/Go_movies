@@ -1,7 +1,7 @@
 {
  "Movies": [
   {
-   "Id": "b29e67df-d0c7-4d80-aa94-ac6133bf0f62",
+   "Id": "a6de3f07-3056-4544-891e-b73efb6ce19b",
    "Title": "Matrix",
    "Genre": [
     "Action",
@@ -16,7 +16,314 @@
    "Rating": 5
   },
   {
-   "Id": "ad557a83-b3e0-406a-b0ba-fb0c96631f40",
+   "Id": "d09fc881-acbe-44ee-a657-2274c2795cd2",
+   "Title": "Test Chris",
+   "Genre": [],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "22994367-3d0b-4fc4-b061-efc725755eeb",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "01b0d014-2575-47c4-b561-4a111a07dd0f",
+   "Title": "",
+   "Genre": [],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "aea9b44e-8cce-468a-8a1e-fb70b8dc80a5",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "42a28235-e199-4db6-b168-7830afa57f89",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "4f785204-2c2e-4ed2-b339-d35348addb7a",
+   "Title": "Ruth Chris",
+   "Genre": [
+    "Jack up",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "0749c608-0cca-43e0-9a1d-199db55c29d4",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "68bf620d-b6ea-4f32-bac1-adc7436cae50",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "1134acc1-e288-4eea-b265-4b954f3e650e",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "73364be3-f124-4ce4-ba9a-148ea4a1bf6b",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "19a50c50-1a09-43b4-b890-3af28d637545",
+   "Title": "Eminiem",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "9b601e6f-3a9b-4376-87e5-6b4be23cb8be",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "e1addc1b-a1c4-4f2c-92dd-bc81d049f8c8",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "72c39379-8440-4303-b430-cfa4f598583b",
+   "Title": "",
+   "Genre": [],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "3ab7d5a8-53ce-4642-b397-51ad8dfe9242",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "7d39de48-efc0-4c68-9224-3b7e80d83345",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "c29aa737-9ce6-47fa-beb9-f680b05883d0",
+   "Title": "",
+   "Genre": null,
+   "Description": "",
+   "Actors": null,
+   "Rating": 0
+  },
+  {
+   "Id": "eb1ccdfa-e2c3-4d9a-8700-b7124aa6adc6",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "51f7d7ec-840e-4795-8411-3fb7c631e373",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "dd9ff172-00fc-420e-9ba3-6f3bd4146819",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "35d8e5b5-c2bc-44db-8102-e4faa3aff853",
+   "Title": "Alex",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  {
+   "Id": "c6d36ca7-42e0-4002-a0d5-2b2f896d11a6",
+   "Title": "Alex",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  {
+   "Id": "5243a8a3-cebd-4d14-b6d1-c397390b3f5e",
    "Title": "Matrix",
    "Genre": [
     "Action",
@@ -30,5 +337,344 @@
    ],
    "Rating": 5
   }
- ]
+ ],
+ "MoviesMap": {
+  "01b0d014-2575-47c4-b561-4a111a07dd0f": {
+   "Id": "01b0d014-2575-47c4-b561-4a111a07dd0f",
+   "Title": "",
+   "Genre": [],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "0749c608-0cca-43e0-9a1d-199db55c29d4": {
+   "Id": "0749c608-0cca-43e0-9a1d-199db55c29d4",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "1134acc1-e288-4eea-b265-4b954f3e650e": {
+   "Id": "1134acc1-e288-4eea-b265-4b954f3e650e",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "19a50c50-1a09-43b4-b890-3af28d637545": {
+   "Id": "19a50c50-1a09-43b4-b890-3af28d637545",
+   "Title": "Eminiem",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "22994367-3d0b-4fc4-b061-efc725755eeb": {
+   "Id": "22994367-3d0b-4fc4-b061-efc725755eeb",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "35d8e5b5-c2bc-44db-8102-e4faa3aff853": {
+   "Id": "35d8e5b5-c2bc-44db-8102-e4faa3aff853",
+   "Title": "Alex",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "3ab7d5a8-53ce-4642-b397-51ad8dfe9242": {
+   "Id": "3ab7d5a8-53ce-4642-b397-51ad8dfe9242",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "42a28235-e199-4db6-b168-7830afa57f89": {
+   "Id": "42a28235-e199-4db6-b168-7830afa57f89",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "4f785204-2c2e-4ed2-b339-d35348addb7a": {
+   "Id": "4f785204-2c2e-4ed2-b339-d35348addb7a",
+   "Title": "Ruth Chris",
+   "Genre": [
+    "Jack up",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "51f7d7ec-840e-4795-8411-3fb7c631e373": {
+   "Id": "51f7d7ec-840e-4795-8411-3fb7c631e373",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "5243a8a3-cebd-4d14-b6d1-c397390b3f5e": {
+   "Id": "5243a8a3-cebd-4d14-b6d1-c397390b3f5e",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "68bf620d-b6ea-4f32-bac1-adc7436cae50": {
+   "Id": "68bf620d-b6ea-4f32-bac1-adc7436cae50",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "72c39379-8440-4303-b430-cfa4f598583b": {
+   "Id": "72c39379-8440-4303-b430-cfa4f598583b",
+   "Title": "",
+   "Genre": [],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "73364be3-f124-4ce4-ba9a-148ea4a1bf6b": {
+   "Id": "73364be3-f124-4ce4-ba9a-148ea4a1bf6b",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "7d39de48-efc0-4c68-9224-3b7e80d83345": {
+   "Id": "7d39de48-efc0-4c68-9224-3b7e80d83345",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "9b601e6f-3a9b-4376-87e5-6b4be23cb8be": {
+   "Id": "9b601e6f-3a9b-4376-87e5-6b4be23cb8be",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "a6de3f07-3056-4544-891e-b73efb6ce19b": {
+   "Id": "a6de3f07-3056-4544-891e-b73efb6ce19b",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "aea9b44e-8cce-468a-8a1e-fb70b8dc80a5": {
+   "Id": "aea9b44e-8cce-468a-8a1e-fb70b8dc80a5",
+   "Title": "Jump Off",
+   "Genre": [
+    "Speed",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "c29aa737-9ce6-47fa-beb9-f680b05883d0": {
+   "Id": "c29aa737-9ce6-47fa-beb9-f680b05883d0",
+   "Title": "",
+   "Genre": null,
+   "Description": "",
+   "Actors": null,
+   "Rating": 0
+  },
+  "c6d36ca7-42e0-4002-a0d5-2b2f896d11a6": {
+   "Id": "c6d36ca7-42e0-4002-a0d5-2b2f896d11a6",
+   "Title": "Alex",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "d09fc881-acbe-44ee-a657-2274c2795cd2": {
+   "Id": "d09fc881-acbe-44ee-a657-2274c2795cd2",
+   "Title": "Test Chris",
+   "Genre": [],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "dd9ff172-00fc-420e-9ba3-6f3bd4146819": {
+   "Id": "dd9ff172-00fc-420e-9ba3-6f3bd4146819",
+   "Title": "",
+   "Genre": [
+    "Alexander Hamilton"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5.2
+  },
+  "e1addc1b-a1c4-4f2c-92dd-bc81d049f8c8": {
+   "Id": "e1addc1b-a1c4-4f2c-92dd-bc81d049f8c8",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  },
+  "eb1ccdfa-e2c3-4d9a-8700-b7124aa6adc6": {
+   "Id": "eb1ccdfa-e2c3-4d9a-8700-b7124aa6adc6",
+   "Title": "Matrix",
+   "Genre": [
+    "Action",
+    "Fantasy"
+   ],
+   "Description": "Neo took the red pill like a smart man",
+   "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Mosst"
+   ],
+   "Rating": 5
+  }
+ }
 }

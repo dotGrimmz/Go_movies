@@ -1,25 +1,32 @@
 package handlers 
 
 import (
-	"encoding/json"
+	// "encoding/json"
 	"net/http"
-	"movies_api/entities"
-	"movies_api/repo"
+	// "movies_api/entities"
+	// "movies_api/repo"
+	"github.com/gorilla/mux"
+	"movies_api/service"
+//"fmt"
 )
 
 
 func PostNewMovie(res http.ResponseWriter, req *http.Request) {
-	movieStruct := entities.Movie{}
-	repo := repo.Repo{}
+	 service.CreateMovie(res , req)
+}
 
-	err := json.NewDecoder(req.Body).Decode(&movieStruct);
-	movieStruct.SetId()
-	err = repo.AddMovie(movieStruct)
-	if err != nil {
-		res.WriteHeader(http.StatusBadRequest)
-	}
+func FindMovieById(res http.ResponseWriter, req *http.Request) {
+	id := mux.Vars(req)["id"]
+	service.FindMovieId(res, req, id)
+}
 
-	res.Header().Set("Content-Type", "application/json")
-	res.WriteHeader(http.StatusOK)
 
-}	
+func DeleteMovieById(res http.ResponseWriter, req *http.Request) {
+	id := mux.Vars(req)["id"]
+	service.DeleteMovie(res, req, id)
+}
+
+
+func  UpdateMovieById(res http.ResponseWriter, req *http.Request) {
+	service.UpdateMovie(res, req)
+}
